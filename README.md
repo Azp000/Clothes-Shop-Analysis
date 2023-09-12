@@ -1,1 +1,1 @@
-# Clothes-Shop-Analysis
+This repository contains the code and resources for the "Clothes Shop Sales Analysis" project, which involves the analysis of sales data from a clothing store. Additionally, there is a sales dashboard created using Excel to visualize and present key insights from the data.
